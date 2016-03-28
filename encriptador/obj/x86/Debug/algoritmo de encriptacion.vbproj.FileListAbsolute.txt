@@ -1,0 +1,17 @@
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\bin\Debug\algoritmo de encriptacion.exe
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\bin\Debug\algoritmo de encriptacion.pdb
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\bin\Debug\algoritmo de encriptacion.xml
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.exe
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.xml
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.pdb
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\encriptacion.Form1.resources
+C:\Users\usuario2\Documents\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\encriptacion.Resources.resources
+O:\usuario2\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.exe
+O:\usuario2\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.xml
+O:\usuario2\Mis Programas\algoritmo de encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.pdb
+O:\usuario2\Mis Programas\encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.exe
+O:\usuario2\Mis Programas\encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.xml
+O:\usuario2\Mis Programas\encriptacion\algoritmo de encriptacion\obj\x86\Debug\algoritmo de encriptacion.pdb
